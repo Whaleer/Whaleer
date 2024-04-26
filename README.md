@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📖 I’m currently pursuing a master's degree at NWNU.
+- 🍮 I’m currently studying computer vision, C++ embedded systems, and backend development.
+- ⛲ a Listener, Midjourney lover.
+- 📫 How to reach me: bingxiliu35@gmail.com
