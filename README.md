@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📖 I’m currently pursuing a master's degree at NWNU.
-- 🍮 I’m currently studying computer vision, C++ embedded systems, and backend development.
+- 🍮 I’m currently studying computer vision, embedded systems, and backend development.
 - ⛲ a Listener, Midjourney lover.
 - 📫 How to reach me: bingxiliu35@gmail.com
 
