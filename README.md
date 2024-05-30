@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📖 I’m currently pursuing a master's degree at NWNU.
+- 🌸 My postgraduate projects dealt with computer vision, medical image processing, medical image segmentation, 3D point cloud segmentation.
 - 🍮 I’m currently studying computer vision, embedded systems, and backend development.
 - ⛲ a Listener, Midjourney lover.
 - 📫 How to reach me: bingxiliu35@gmail.com
