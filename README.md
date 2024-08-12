@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📖 I earned my undergraduate degree from CQUPT and am currently pursuing a master’s degree at NWNU.
 - 🌸 My postgraduate projects dealt with computer vision, medical image processing, medical image segmentation, 3D point cloud segmentation.
 - 🍮 I’m currently deepening my expertise in computer vision, embedded systems, and backend development.
-- ⛲ a listener, Midjourney lover.
+- ⛵ a listener, Midjourney lover.
 - 📫 How to reach me: bingxiliu35@gmail.com
 
 
