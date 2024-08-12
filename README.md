@@ -1,4 +1,4 @@
-#### Hi!😸 I'm Bobliu
+#### Hi!😸 I'm Bob Liu
 
 <!--
 **Whaleer/Whaleer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📖 My undergraduate degree is from CQUPT, and I'm currently pursuing a master's degree at NWNU.
+- 📖 I earned my undergraduate degree from CQUPT and am currently pursuing a master’s degree at NWNU.
 - 🌸 My postgraduate projects dealt with computer vision, medical image processing, medical image segmentation, 3D point cloud segmentation.
-- 🍮 I’m currently studying computer vision, embedded systems, and backend development.
-- ⛲ a Listener, Midjourney lover.
+- 🍮 I’m currently deepening my expertise in computer vision, embedded systems, and backend development.
+- ⛲ a listener, Midjourney lover.
 - 📫 How to reach me: bingxiliu35@gmail.com
 
 
